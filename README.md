@@ -9,6 +9,6 @@
   A simple program to perform hotel operations with python and sql.
   
 # Project 3
-# [Web_scraping_portfolio_project_word_count](https://github.com/sguntuku/# Web_scraping_portfolio_project_word_count/tree/main)
+# [Web_scraping_portfolio_project_word_count](https://github.com/sguntuku/Web_scraping_portfolio_project_word_count/tree/main)
   This project is used to find the count of repeated words in a web page by using web scraping
 

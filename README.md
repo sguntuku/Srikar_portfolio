@@ -1,3 +1,5 @@
-# [Library_Management_system_portfolio_project](http://sguntuku.github.io/)
+# List of portfolio projects
 
-A simple program to perform library system operations with python and sql.
+# Project 1
+# [School_Management_system_portfolio_project](https://github.com/sguntuku/School_Management_system_portfolio_project/tree/main
+  A simple program to perform school class operations with python and sql.
